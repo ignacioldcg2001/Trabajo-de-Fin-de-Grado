@@ -1,0 +1,171 @@
+,Indicador,Comunidad Autónoma,Año,Valor Indicador
+0,ICEA,01 Andalucía,2013,108
+1,ICEA,01 Andalucía,2014,121
+2,ICEA,01 Andalucía,2015,130
+3,ICEA,01 Andalucía,2016,131
+4,ICEA,01 Andalucía,2017,134
+5,ICEA,01 Andalucía,2018,135
+6,ICEA,01 Andalucía,2019,132
+7,ICEA,01 Andalucía,2020,108
+8,ICEA,01 Andalucía,2021,120
+9,ICEA,01 Andalucía,2022,126
+10,ICEA,02 Aragón,2013,107
+11,ICEA,02 Aragón,2014,121
+12,ICEA,02 Aragón,2015,130
+13,ICEA,02 Aragón,2016,130
+14,ICEA,02 Aragón,2017,135
+15,ICEA,02 Aragón,2018,139
+16,ICEA,02 Aragón,2019,134
+17,ICEA,02 Aragón,2020,109
+18,ICEA,02 Aragón,2021,125
+19,ICEA,02 Aragón,2022,128
+20,ICEA,"03 Asturias, Principado de",2013,108
+21,ICEA,"03 Asturias, Principado de",2014,121
+22,ICEA,"03 Asturias, Principado de",2015,130
+23,ICEA,"03 Asturias, Principado de",2016,133
+24,ICEA,"03 Asturias, Principado de",2017,135
+25,ICEA,"03 Asturias, Principado de",2018,136
+26,ICEA,"03 Asturias, Principado de",2019,133
+27,ICEA,"03 Asturias, Principado de",2020,111
+28,ICEA,"03 Asturias, Principado de",2021,126
+29,ICEA,"03 Asturias, Principado de",2022,126
+30,ICEA,"04 Balears, Illes",2013,113
+31,ICEA,"04 Balears, Illes",2014,126
+32,ICEA,"04 Balears, Illes",2015,135
+33,ICEA,"04 Balears, Illes",2016,139
+34,ICEA,"04 Balears, Illes",2017,141
+35,ICEA,"04 Balears, Illes",2018,138
+36,ICEA,"04 Balears, Illes",2019,135
+37,ICEA,"04 Balears, Illes",2020,100
+38,ICEA,"04 Balears, Illes",2021,113
+39,ICEA,"04 Balears, Illes",2022,134
+40,ICEA,05 Canarias,2013,105
+41,ICEA,05 Canarias,2014,118
+42,ICEA,05 Canarias,2015,127
+43,ICEA,05 Canarias,2016,130
+44,ICEA,05 Canarias,2017,134
+45,ICEA,05 Canarias,2018,132
+46,ICEA,05 Canarias,2019,123
+47,ICEA,05 Canarias,2020,97
+48,ICEA,05 Canarias,2021,107
+49,ICEA,05 Canarias,2022,123
+50,ICEA,06 Cantabria,2013,107
+51,ICEA,06 Cantabria,2014,123
+52,ICEA,06 Cantabria,2015,132
+53,ICEA,06 Cantabria,2016,134
+54,ICEA,06 Cantabria,2017,142
+55,ICEA,06 Cantabria,2018,144
+56,ICEA,06 Cantabria,2019,142
+57,ICEA,06 Cantabria,2020,116
+58,ICEA,06 Cantabria,2021,132
+59,ICEA,06 Cantabria,2022,136
+60,ICEA,07 Castilla y León,2013,107
+61,ICEA,07 Castilla y León,2014,122
+62,ICEA,07 Castilla y León,2015,132
+63,ICEA,07 Castilla y León,2016,134
+64,ICEA,07 Castilla y León,2017,139
+65,ICEA,07 Castilla y León,2018,140
+66,ICEA,07 Castilla y León,2019,136
+67,ICEA,07 Castilla y León,2020,111
+68,ICEA,07 Castilla y León,2021,128
+69,ICEA,07 Castilla y León,2022,129
+70,ICEA,08 Castilla - La Mancha,2013,109
+71,ICEA,08 Castilla - La Mancha,2014,121
+72,ICEA,08 Castilla - La Mancha,2015,134
+73,ICEA,08 Castilla - La Mancha,2016,138
+74,ICEA,08 Castilla - La Mancha,2017,144
+75,ICEA,08 Castilla - La Mancha,2018,144
+76,ICEA,08 Castilla - La Mancha,2019,143
+77,ICEA,08 Castilla - La Mancha,2020,115
+78,ICEA,08 Castilla - La Mancha,2021,131
+79,ICEA,08 Castilla - La Mancha,2022,136
+80,ICEA,09 Cataluña,2013,108
+81,ICEA,09 Cataluña,2014,125
+82,ICEA,09 Cataluña,2015,135
+83,ICEA,09 Cataluña,2016,138
+84,ICEA,09 Cataluña,2017,141
+85,ICEA,09 Cataluña,2018,139
+86,ICEA,09 Cataluña,2019,137
+87,ICEA,09 Cataluña,2020,108
+88,ICEA,09 Cataluña,2021,125
+89,ICEA,09 Cataluña,2022,132
+90,ICEA,10 Comunitat Valenciana,2013,103
+91,ICEA,10 Comunitat Valenciana,2014,112
+92,ICEA,10 Comunitat Valenciana,2015,122
+93,ICEA,10 Comunitat Valenciana,2016,124
+94,ICEA,10 Comunitat Valenciana,2017,128
+95,ICEA,10 Comunitat Valenciana,2018,130
+96,ICEA,10 Comunitat Valenciana,2019,127
+97,ICEA,10 Comunitat Valenciana,2020,102
+98,ICEA,10 Comunitat Valenciana,2021,117
+99,ICEA,10 Comunitat Valenciana,2022,120
+100,ICEA,11 Extremadura,2013,102
+101,ICEA,11 Extremadura,2014,116
+102,ICEA,11 Extremadura,2015,124
+103,ICEA,11 Extremadura,2016,127
+104,ICEA,11 Extremadura,2017,133
+105,ICEA,11 Extremadura,2018,138
+106,ICEA,11 Extremadura,2019,136
+107,ICEA,11 Extremadura,2020,111
+108,ICEA,11 Extremadura,2021,123
+109,ICEA,11 Extremadura,2022,124
+110,ICEA,12 Galicia,2013,105
+111,ICEA,12 Galicia,2014,116
+112,ICEA,12 Galicia,2015,123
+113,ICEA,12 Galicia,2016,125
+114,ICEA,12 Galicia,2017,131
+115,ICEA,12 Galicia,2018,129
+116,ICEA,12 Galicia,2019,129
+117,ICEA,12 Galicia,2020,106
+118,ICEA,12 Galicia,2021,117
+119,ICEA,12 Galicia,2022,121
+120,ICEA,"13 Madrid, Comunidad de",2013,105
+121,ICEA,"13 Madrid, Comunidad de",2014,117
+122,ICEA,"13 Madrid, Comunidad de",2015,124
+123,ICEA,"13 Madrid, Comunidad de",2016,127
+124,ICEA,"13 Madrid, Comunidad de",2017,128
+125,ICEA,"13 Madrid, Comunidad de",2018,129
+126,ICEA,"13 Madrid, Comunidad de",2019,129
+127,ICEA,"13 Madrid, Comunidad de",2020,103
+128,ICEA,"13 Madrid, Comunidad de",2021,116
+129,ICEA,"13 Madrid, Comunidad de",2022,126
+130,ICEA,"14 Murcia, Región de",2013,105
+131,ICEA,"14 Murcia, Región de",2014,116
+132,ICEA,"14 Murcia, Región de",2015,120
+133,ICEA,"14 Murcia, Región de",2016,124
+134,ICEA,"14 Murcia, Región de",2017,129
+135,ICEA,"14 Murcia, Región de",2018,130
+136,ICEA,"14 Murcia, Región de",2019,127
+137,ICEA,"14 Murcia, Región de",2020,104
+138,ICEA,"14 Murcia, Región de",2021,114
+139,ICEA,"14 Murcia, Región de",2022,117
+140,ICEA,"15 Navarra, Comunidad Foral de",2013,107
+141,ICEA,"15 Navarra, Comunidad Foral de",2014,123
+142,ICEA,"15 Navarra, Comunidad Foral de",2015,131
+143,ICEA,"15 Navarra, Comunidad Foral de",2016,132
+144,ICEA,"15 Navarra, Comunidad Foral de",2017,134
+145,ICEA,"15 Navarra, Comunidad Foral de",2018,137
+146,ICEA,"15 Navarra, Comunidad Foral de",2019,135
+147,ICEA,"15 Navarra, Comunidad Foral de",2020,109
+148,ICEA,"15 Navarra, Comunidad Foral de",2021,122
+149,ICEA,"15 Navarra, Comunidad Foral de",2022,126
+150,ICEA,16 País Vasco,2013,105
+151,ICEA,16 País Vasco,2014,118
+152,ICEA,16 País Vasco,2015,126
+153,ICEA,16 País Vasco,2016,129
+154,ICEA,16 País Vasco,2017,133
+155,ICEA,16 País Vasco,2018,136
+156,ICEA,16 País Vasco,2019,133
+157,ICEA,16 País Vasco,2020,107
+158,ICEA,16 País Vasco,2021,122
+159,ICEA,16 País Vasco,2022,127
+160,ICEA,"17 Rioja, La",2013,107
+161,ICEA,"17 Rioja, La",2014,119
+162,ICEA,"17 Rioja, La",2015,128
+163,ICEA,"17 Rioja, La",2016,128
+164,ICEA,"17 Rioja, La",2017,131
+165,ICEA,"17 Rioja, La",2018,132
+166,ICEA,"17 Rioja, La",2019,131
+167,ICEA,"17 Rioja, La",2020,104
+168,ICEA,"17 Rioja, La",2021,116
+169,ICEA,"17 Rioja, La",2022,121

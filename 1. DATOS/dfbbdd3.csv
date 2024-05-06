@@ -1,0 +1,628 @@
+,Clase de disolución,Año,Comunidad Autónoma,Número Sociedades
+0,Otras,2022,01 Andalucía,356
+1,Otras,2022,02 Aragón,53
+2,Otras,2022,"03 Asturias, Principado de",60
+3,Otras,2022,"04 Balears, Illes",61
+4,Otras,2022,05 Canarias,88
+5,Otras,2022,06 Canarias,22
+6,Otras,2022,07 Castilla y León,99
+7,Otras,2022,08 Castilla-La Mancha,65
+8,Otras,2022,09 Cataluña,367
+9,Otras,2022,10 Comunitat Valenciana,545
+10,Otras,2022,11 Extremadura,21
+11,Otras,2022,12 Galicia,160
+12,Otras,2022,"13 Madrid, Comunidad de",344
+13,Otras,2022,"14 Murcia, Región de",80
+14,Otras,2022,"15 Navarra, Comunidad Foral de",21
+15,Otras,2022,16 País Vasco,149
+16,Otras,2022,"17 Rioja, La",10
+17,Otras,2022,18 Ceuta,1
+18,Otras,2022,19 Melilla,0
+19,Por fusión,2022,01 Andalucía,274
+20,Por fusión,2022,02 Aragón,71
+21,Por fusión,2022,"03 Asturias, Principado de",17
+22,Por fusión,2022,"04 Balears, Illes",75
+23,Por fusión,2022,05 Canarias,62
+24,Por fusión,2022,06 Canarias,16
+25,Por fusión,2022,07 Castilla y León,52
+26,Por fusión,2022,08 Castilla-La Mancha,49
+27,Por fusión,2022,09 Cataluña,153
+28,Por fusión,2022,10 Comunitat Valenciana,193
+29,Por fusión,2022,11 Extremadura,13
+30,Por fusión,2022,12 Galicia,86
+31,Por fusión,2022,"13 Madrid, Comunidad de",1595
+32,Por fusión,2022,"14 Murcia, Región de",45
+33,Por fusión,2022,"15 Navarra, Comunidad Foral de",62
+34,Por fusión,2022,16 País Vasco,194
+35,Por fusión,2022,"17 Rioja, La",21
+36,Por fusión,2022,18 Ceuta,5
+37,Por fusión,2022,19 Melilla,0
+38,Voluntaria,2022,01 Andalucía,3362
+39,Voluntaria,2022,02 Aragón,665
+40,Voluntaria,2022,"03 Asturias, Principado de",385
+41,Voluntaria,2022,"04 Balears, Illes",913
+42,Voluntaria,2022,05 Canarias,867
+43,Voluntaria,2022,06 Canarias,268
+44,Voluntaria,2022,07 Castilla y León,1018
+45,Voluntaria,2022,08 Castilla-La Mancha,342
+46,Voluntaria,2022,09 Cataluña,1417
+47,Voluntaria,2022,10 Comunitat Valenciana,1439
+48,Voluntaria,2022,11 Extremadura,305
+49,Voluntaria,2022,12 Galicia,1264
+50,Voluntaria,2022,"13 Madrid, Comunidad de",6907
+51,Voluntaria,2022,"14 Murcia, Región de",294
+52,Voluntaria,2022,"15 Navarra, Comunidad Foral de",8
+53,Voluntaria,2022,16 País Vasco,1113
+54,Voluntaria,2022,"17 Rioja, La",144
+55,Voluntaria,2022,18 Ceuta,17
+56,Voluntaria,2022,19 Melilla,25
+57,Otras,2021,01 Andalucía,398
+58,Otras,2021,02 Aragón,81
+59,Otras,2021,"03 Asturias, Principado de",54
+60,Otras,2021,"04 Balears, Illes",59
+61,Otras,2021,05 Canarias,98
+62,Otras,2021,06 Canarias,27
+63,Otras,2021,07 Castilla y León,97
+64,Otras,2021,08 Castilla-La Mancha,62
+65,Otras,2021,09 Cataluña,387
+66,Otras,2021,10 Comunitat Valenciana,445
+67,Otras,2021,11 Extremadura,29
+68,Otras,2021,12 Galicia,200
+69,Otras,2021,"13 Madrid, Comunidad de",370
+70,Otras,2021,"14 Murcia, Región de",98
+71,Otras,2021,"15 Navarra, Comunidad Foral de",30
+72,Otras,2021,16 País Vasco,135
+73,Otras,2021,"17 Rioja, La",4
+74,Otras,2021,18 Ceuta,2
+75,Otras,2021,19 Melilla,0
+76,Por fusión,2021,01 Andalucía,214
+77,Por fusión,2021,02 Aragón,63
+78,Por fusión,2021,"03 Asturias, Principado de",20
+79,Por fusión,2021,"04 Balears, Illes",99
+80,Por fusión,2021,05 Canarias,33
+81,Por fusión,2021,06 Canarias,13
+82,Por fusión,2021,07 Castilla y León,67
+83,Por fusión,2021,08 Castilla-La Mancha,43
+84,Por fusión,2021,09 Cataluña,166
+85,Por fusión,2021,10 Comunitat Valenciana,161
+86,Por fusión,2021,11 Extremadura,20
+87,Por fusión,2021,12 Galicia,96
+88,Por fusión,2021,"13 Madrid, Comunidad de",1370
+89,Por fusión,2021,"14 Murcia, Región de",32
+90,Por fusión,2021,"15 Navarra, Comunidad Foral de",22
+91,Por fusión,2021,16 País Vasco,197
+92,Por fusión,2021,"17 Rioja, La",14
+93,Por fusión,2021,18 Ceuta,0
+94,Por fusión,2021,19 Melilla,1
+95,Voluntaria,2021,01 Andalucía,2980
+96,Voluntaria,2021,02 Aragón,645
+97,Voluntaria,2021,"03 Asturias, Principado de",374
+98,Voluntaria,2021,"04 Balears, Illes",854
+99,Voluntaria,2021,05 Canarias,819
+100,Voluntaria,2021,06 Canarias,220
+101,Voluntaria,2021,07 Castilla y León,977
+102,Voluntaria,2021,08 Castilla-La Mancha,354
+103,Voluntaria,2021,09 Cataluña,1291
+104,Voluntaria,2021,10 Comunitat Valenciana,1331
+105,Voluntaria,2021,11 Extremadura,292
+106,Voluntaria,2021,12 Galicia,1313
+107,Voluntaria,2021,"13 Madrid, Comunidad de",5634
+108,Voluntaria,2021,"14 Murcia, Región de",144
+109,Voluntaria,2021,"15 Navarra, Comunidad Foral de",3
+110,Voluntaria,2021,16 País Vasco,1165
+111,Voluntaria,2021,"17 Rioja, La",171
+112,Voluntaria,2021,18 Ceuta,17
+113,Voluntaria,2021,19 Melilla,17
+114,Otras,2020,01 Andalucía,292
+115,Otras,2020,02 Aragón,65
+116,Otras,2020,"03 Asturias, Principado de",26
+117,Otras,2020,"04 Balears, Illes",30
+118,Otras,2020,05 Canarias,59
+119,Otras,2020,06 Canarias,24
+120,Otras,2020,07 Castilla y León,77
+121,Otras,2020,08 Castilla-La Mancha,47
+122,Otras,2020,09 Cataluña,329
+123,Otras,2020,10 Comunitat Valenciana,341
+124,Otras,2020,11 Extremadura,14
+125,Otras,2020,12 Galicia,150
+126,Otras,2020,"13 Madrid, Comunidad de",346
+127,Otras,2020,"14 Murcia, Región de",80
+128,Otras,2020,"15 Navarra, Comunidad Foral de",22
+129,Otras,2020,16 País Vasco,124
+130,Otras,2020,"17 Rioja, La",12
+131,Otras,2020,18 Ceuta,1
+132,Otras,2020,19 Melilla,1
+133,Por fusión,2020,01 Andalucía,318
+134,Por fusión,2020,02 Aragón,51
+135,Por fusión,2020,"03 Asturias, Principado de",21
+136,Por fusión,2020,"04 Balears, Illes",90
+137,Por fusión,2020,05 Canarias,27
+138,Por fusión,2020,06 Canarias,12
+139,Por fusión,2020,07 Castilla y León,72
+140,Por fusión,2020,08 Castilla-La Mancha,25
+141,Por fusión,2020,09 Cataluña,143
+142,Por fusión,2020,10 Comunitat Valenciana,149
+143,Por fusión,2020,11 Extremadura,9
+144,Por fusión,2020,12 Galicia,89
+145,Por fusión,2020,"13 Madrid, Comunidad de",1612
+146,Por fusión,2020,"14 Murcia, Región de",46
+147,Por fusión,2020,"15 Navarra, Comunidad Foral de",46
+148,Por fusión,2020,16 País Vasco,183
+149,Por fusión,2020,"17 Rioja, La",7
+150,Por fusión,2020,18 Ceuta,0
+151,Por fusión,2020,19 Melilla,1
+152,Voluntaria,2020,01 Andalucía,2428
+153,Voluntaria,2020,02 Aragón,556
+154,Voluntaria,2020,"03 Asturias, Principado de",248
+155,Voluntaria,2020,"04 Balears, Illes",746
+156,Voluntaria,2020,05 Canarias,691
+157,Voluntaria,2020,06 Canarias,173
+158,Voluntaria,2020,07 Castilla y León,788
+159,Voluntaria,2020,08 Castilla-La Mancha,270
+160,Voluntaria,2020,09 Cataluña,1067
+161,Voluntaria,2020,10 Comunitat Valenciana,1103
+162,Voluntaria,2020,11 Extremadura,264
+163,Voluntaria,2020,12 Galicia,1077
+164,Voluntaria,2020,"13 Madrid, Comunidad de",4758
+165,Voluntaria,2020,"14 Murcia, Región de",78
+166,Voluntaria,2020,"15 Navarra, Comunidad Foral de",4
+167,Voluntaria,2020,16 País Vasco,966
+168,Voluntaria,2020,"17 Rioja, La",113
+169,Voluntaria,2020,18 Ceuta,15
+170,Voluntaria,2020,19 Melilla,14
+171,Otras,2019,01 Andalucía,351
+172,Otras,2019,02 Aragón,64
+173,Otras,2019,"03 Asturias, Principado de",48
+174,Otras,2019,"04 Balears, Illes",57
+175,Otras,2019,05 Canarias,74
+176,Otras,2019,06 Canarias,34
+177,Otras,2019,07 Castilla y León,97
+178,Otras,2019,08 Castilla-La Mancha,81
+179,Otras,2019,09 Cataluña,362
+180,Otras,2019,10 Comunitat Valenciana,394
+181,Otras,2019,11 Extremadura,16
+182,Otras,2019,12 Galicia,176
+183,Otras,2019,"13 Madrid, Comunidad de",372
+184,Otras,2019,"14 Murcia, Región de",105
+185,Otras,2019,"15 Navarra, Comunidad Foral de",46
+186,Otras,2019,16 País Vasco,139
+187,Otras,2019,"17 Rioja, La",6
+188,Otras,2019,18 Ceuta,1
+189,Otras,2019,19 Melilla,3
+190,Por fusión,2019,01 Andalucía,203
+191,Por fusión,2019,02 Aragón,124
+192,Por fusión,2019,"03 Asturias, Principado de",17
+193,Por fusión,2019,"04 Balears, Illes",71
+194,Por fusión,2019,05 Canarias,77
+195,Por fusión,2019,06 Canarias,13
+196,Por fusión,2019,07 Castilla y León,68
+197,Por fusión,2019,08 Castilla-La Mancha,641
+198,Por fusión,2019,09 Cataluña,222
+199,Por fusión,2019,10 Comunitat Valenciana,319
+200,Por fusión,2019,11 Extremadura,20
+201,Por fusión,2019,12 Galicia,132
+202,Por fusión,2019,"13 Madrid, Comunidad de",1191
+203,Por fusión,2019,"14 Murcia, Región de",30
+204,Por fusión,2019,"15 Navarra, Comunidad Foral de",32
+205,Por fusión,2019,16 País Vasco,112
+206,Por fusión,2019,"17 Rioja, La",15
+207,Por fusión,2019,18 Ceuta,0
+208,Por fusión,2019,19 Melilla,0
+209,Voluntaria,2019,01 Andalucía,2760
+210,Voluntaria,2019,02 Aragón,669
+211,Voluntaria,2019,"03 Asturias, Principado de",328
+212,Voluntaria,2019,"04 Balears, Illes",898
+213,Voluntaria,2019,05 Canarias,768
+214,Voluntaria,2019,06 Canarias,199
+215,Voluntaria,2019,07 Castilla y León,895
+216,Voluntaria,2019,08 Castilla-La Mancha,322
+217,Voluntaria,2019,09 Cataluña,1201
+218,Voluntaria,2019,10 Comunitat Valenciana,1197
+219,Voluntaria,2019,11 Extremadura,262
+220,Voluntaria,2019,12 Galicia,1171
+221,Voluntaria,2019,"13 Madrid, Comunidad de",5441
+222,Voluntaria,2019,"14 Murcia, Región de",156
+223,Voluntaria,2019,"15 Navarra, Comunidad Foral de",6
+224,Voluntaria,2019,16 País Vasco,1145
+225,Voluntaria,2019,"17 Rioja, La",141
+226,Voluntaria,2019,18 Ceuta,15
+227,Voluntaria,2019,19 Melilla,23
+228,Otras,2018,01 Andalucía,435
+229,Otras,2018,02 Aragón,64
+230,Otras,2018,"03 Asturias, Principado de",79
+231,Otras,2018,"04 Balears, Illes",61
+232,Otras,2018,05 Canarias,64
+233,Otras,2018,06 Canarias,27
+234,Otras,2018,07 Castilla y León,115
+235,Otras,2018,08 Castilla-La Mancha,120
+236,Otras,2018,09 Cataluña,401
+237,Otras,2018,10 Comunitat Valenciana,443
+238,Otras,2018,11 Extremadura,34
+239,Otras,2018,12 Galicia,178
+240,Otras,2018,"13 Madrid, Comunidad de",458
+241,Otras,2018,"14 Murcia, Región de",111
+242,Otras,2018,"15 Navarra, Comunidad Foral de",33
+243,Otras,2018,16 País Vasco,162
+244,Otras,2018,"17 Rioja, La",9
+245,Otras,2018,18 Ceuta,5
+246,Otras,2018,19 Melilla,2
+247,Por fusión,2018,01 Andalucía,286
+248,Por fusión,2018,02 Aragón,61
+249,Por fusión,2018,"03 Asturias, Principado de",29
+250,Por fusión,2018,"04 Balears, Illes",46
+251,Por fusión,2018,05 Canarias,54
+252,Por fusión,2018,06 Canarias,11
+253,Por fusión,2018,07 Castilla y León,61
+254,Por fusión,2018,08 Castilla-La Mancha,151
+255,Por fusión,2018,09 Cataluña,144
+256,Por fusión,2018,10 Comunitat Valenciana,106
+257,Por fusión,2018,11 Extremadura,7
+258,Por fusión,2018,12 Galicia,82
+259,Por fusión,2018,"13 Madrid, Comunidad de",1163
+260,Por fusión,2018,"14 Murcia, Región de",51
+261,Por fusión,2018,"15 Navarra, Comunidad Foral de",56
+262,Por fusión,2018,16 País Vasco,148
+263,Por fusión,2018,"17 Rioja, La",11
+264,Por fusión,2018,18 Ceuta,4
+265,Por fusión,2018,19 Melilla,0
+266,Voluntaria,2018,01 Andalucía,2617
+267,Voluntaria,2018,02 Aragón,654
+268,Voluntaria,2018,"03 Asturias, Principado de",366
+269,Voluntaria,2018,"04 Balears, Illes",933
+270,Voluntaria,2018,05 Canarias,789
+271,Voluntaria,2018,06 Canarias,222
+272,Voluntaria,2018,07 Castilla y León,803
+273,Voluntaria,2018,08 Castilla-La Mancha,333
+274,Voluntaria,2018,09 Cataluña,1240
+275,Voluntaria,2018,10 Comunitat Valenciana,1114
+276,Voluntaria,2018,11 Extremadura,264
+277,Voluntaria,2018,12 Galicia,1180
+278,Voluntaria,2018,"13 Madrid, Comunidad de",5197
+279,Voluntaria,2018,"14 Murcia, Región de",182
+280,Voluntaria,2018,"15 Navarra, Comunidad Foral de",5
+281,Voluntaria,2018,16 País Vasco,1085
+282,Voluntaria,2018,"17 Rioja, La",103
+283,Voluntaria,2018,18 Ceuta,14
+284,Voluntaria,2018,19 Melilla,14
+285,Otras,2017,01 Andalucía,376
+286,Otras,2017,02 Aragón,76
+287,Otras,2017,"03 Asturias, Principado de",56
+288,Otras,2017,"04 Balears, Illes",45
+289,Otras,2017,05 Canarias,60
+290,Otras,2017,06 Canarias,61
+291,Otras,2017,07 Castilla y León,112
+292,Otras,2017,08 Castilla-La Mancha,88
+293,Otras,2017,09 Cataluña,370
+294,Otras,2017,10 Comunitat Valenciana,443
+295,Otras,2017,11 Extremadura,41
+296,Otras,2017,12 Galicia,179
+297,Otras,2017,"13 Madrid, Comunidad de",446
+298,Otras,2017,"14 Murcia, Región de",102
+299,Otras,2017,"15 Navarra, Comunidad Foral de",43
+300,Otras,2017,16 País Vasco,174
+301,Otras,2017,"17 Rioja, La",10
+302,Otras,2017,18 Ceuta,0
+303,Otras,2017,19 Melilla,2
+304,Por fusión,2017,01 Andalucía,424
+305,Por fusión,2017,02 Aragón,64
+306,Por fusión,2017,"03 Asturias, Principado de",25
+307,Por fusión,2017,"04 Balears, Illes",67
+308,Por fusión,2017,05 Canarias,48
+309,Por fusión,2017,06 Canarias,11
+310,Por fusión,2017,07 Castilla y León,80
+311,Por fusión,2017,08 Castilla-La Mancha,37
+312,Por fusión,2017,09 Cataluña,161
+313,Por fusión,2017,10 Comunitat Valenciana,134
+314,Por fusión,2017,11 Extremadura,19
+315,Por fusión,2017,12 Galicia,89
+316,Por fusión,2017,"13 Madrid, Comunidad de",892
+317,Por fusión,2017,"14 Murcia, Región de",35
+318,Por fusión,2017,"15 Navarra, Comunidad Foral de",39
+319,Por fusión,2017,16 País Vasco,141
+320,Por fusión,2017,"17 Rioja, La",2
+321,Por fusión,2017,18 Ceuta,1
+322,Por fusión,2017,19 Melilla,1
+323,Voluntaria,2017,01 Andalucía,2691
+324,Voluntaria,2017,02 Aragón,631
+325,Voluntaria,2017,"03 Asturias, Principado de",347
+326,Voluntaria,2017,"04 Balears, Illes",804
+327,Voluntaria,2017,05 Canarias,735
+328,Voluntaria,2017,06 Canarias,184
+329,Voluntaria,2017,07 Castilla y León,851
+330,Voluntaria,2017,08 Castilla-La Mancha,248
+331,Voluntaria,2017,09 Cataluña,1184
+332,Voluntaria,2017,10 Comunitat Valenciana,1096
+333,Voluntaria,2017,11 Extremadura,305
+334,Voluntaria,2017,12 Galicia,1163
+335,Voluntaria,2017,"13 Madrid, Comunidad de",5011
+336,Voluntaria,2017,"14 Murcia, Región de",111
+337,Voluntaria,2017,"15 Navarra, Comunidad Foral de",10
+338,Voluntaria,2017,16 País Vasco,1102
+339,Voluntaria,2017,"17 Rioja, La",130
+340,Voluntaria,2017,18 Ceuta,15
+341,Voluntaria,2017,19 Melilla,15
+342,Otras,2016,01 Andalucía,477
+343,Otras,2016,02 Aragón,116
+344,Otras,2016,"03 Asturias, Principado de",80
+345,Otras,2016,"04 Balears, Illes",85
+346,Otras,2016,05 Canarias,84
+347,Otras,2016,06 Canarias,34
+348,Otras,2016,07 Castilla y León,106
+349,Otras,2016,08 Castilla-La Mancha,87
+350,Otras,2016,09 Cataluña,662
+351,Otras,2016,10 Comunitat Valenciana,546
+352,Otras,2016,11 Extremadura,37
+353,Otras,2016,12 Galicia,202
+354,Otras,2016,"13 Madrid, Comunidad de",406
+355,Otras,2016,"14 Murcia, Región de",81
+356,Otras,2016,"15 Navarra, Comunidad Foral de",58
+357,Otras,2016,16 País Vasco,225
+358,Otras,2016,"17 Rioja, La",10
+359,Otras,2016,18 Ceuta,0
+360,Otras,2016,19 Melilla,3
+361,Por fusión,2016,01 Andalucía,259
+362,Por fusión,2016,02 Aragón,45
+363,Por fusión,2016,"03 Asturias, Principado de",51
+364,Por fusión,2016,"04 Balears, Illes",60
+365,Por fusión,2016,05 Canarias,48
+366,Por fusión,2016,06 Canarias,11
+367,Por fusión,2016,07 Castilla y León,74
+368,Por fusión,2016,08 Castilla-La Mancha,38
+369,Por fusión,2016,09 Cataluña,188
+370,Por fusión,2016,10 Comunitat Valenciana,175
+371,Por fusión,2016,11 Extremadura,21
+372,Por fusión,2016,12 Galicia,87
+373,Por fusión,2016,"13 Madrid, Comunidad de",1015
+374,Por fusión,2016,"14 Murcia, Región de",34
+375,Por fusión,2016,"15 Navarra, Comunidad Foral de",66
+376,Por fusión,2016,16 País Vasco,162
+377,Por fusión,2016,"17 Rioja, La",11
+378,Por fusión,2016,18 Ceuta,1
+379,Por fusión,2016,19 Melilla,0
+380,Voluntaria,2016,01 Andalucía,2456
+381,Voluntaria,2016,02 Aragón,584
+382,Voluntaria,2016,"03 Asturias, Principado de",324
+383,Voluntaria,2016,"04 Balears, Illes",713
+384,Voluntaria,2016,05 Canarias,663
+385,Voluntaria,2016,06 Canarias,201
+386,Voluntaria,2016,07 Castilla y León,904
+387,Voluntaria,2016,08 Castilla-La Mancha,245
+388,Voluntaria,2016,09 Cataluña,1219
+389,Voluntaria,2016,10 Comunitat Valenciana,1099
+390,Voluntaria,2016,11 Extremadura,248
+391,Voluntaria,2016,12 Galicia,1206
+392,Voluntaria,2016,"13 Madrid, Comunidad de",4361
+393,Voluntaria,2016,"14 Murcia, Región de",127
+394,Voluntaria,2016,"15 Navarra, Comunidad Foral de",8
+395,Voluntaria,2016,16 País Vasco,1057
+396,Voluntaria,2016,"17 Rioja, La",133
+397,Voluntaria,2016,18 Ceuta,16
+398,Voluntaria,2016,19 Melilla,14
+399,Otras,2015,01 Andalucía,501
+400,Otras,2015,02 Aragón,172
+401,Otras,2015,"03 Asturias, Principado de",101
+402,Otras,2015,"04 Balears, Illes",87
+403,Otras,2015,05 Canarias,112
+404,Otras,2015,06 Canarias,38
+405,Otras,2015,07 Castilla y León,142
+406,Otras,2015,08 Castilla-La Mancha,131
+407,Otras,2015,09 Cataluña,877
+408,Otras,2015,10 Comunitat Valenciana,585
+409,Otras,2015,11 Extremadura,63
+410,Otras,2015,12 Galicia,242
+411,Otras,2015,"13 Madrid, Comunidad de",636
+412,Otras,2015,"14 Murcia, Región de",145
+413,Otras,2015,"15 Navarra, Comunidad Foral de",74
+414,Otras,2015,16 País Vasco,275
+415,Otras,2015,"17 Rioja, La",44
+416,Otras,2015,18 Ceuta,0
+417,Otras,2015,19 Melilla,0
+418,Por fusión,2015,01 Andalucía,185
+419,Por fusión,2015,02 Aragón,76
+420,Por fusión,2015,"03 Asturias, Principado de",31
+421,Por fusión,2015,"04 Balears, Illes",71
+422,Por fusión,2015,05 Canarias,52
+423,Por fusión,2015,06 Canarias,13
+424,Por fusión,2015,07 Castilla y León,98
+425,Por fusión,2015,08 Castilla-La Mancha,58
+426,Por fusión,2015,09 Cataluña,146
+427,Por fusión,2015,10 Comunitat Valenciana,133
+428,Por fusión,2015,11 Extremadura,12
+429,Por fusión,2015,12 Galicia,104
+430,Por fusión,2015,"13 Madrid, Comunidad de",668
+431,Por fusión,2015,"14 Murcia, Región de",49
+432,Por fusión,2015,"15 Navarra, Comunidad Foral de",34
+433,Por fusión,2015,16 País Vasco,196
+434,Por fusión,2015,"17 Rioja, La",3
+435,Por fusión,2015,18 Ceuta,1
+436,Por fusión,2015,19 Melilla,1
+437,Voluntaria,2015,01 Andalucía,2235
+438,Voluntaria,2015,02 Aragón,528
+439,Voluntaria,2015,"03 Asturias, Principado de",291
+440,Voluntaria,2015,"04 Balears, Illes",632
+441,Voluntaria,2015,05 Canarias,695
+442,Voluntaria,2015,06 Canarias,166
+443,Voluntaria,2015,07 Castilla y León,849
+444,Voluntaria,2015,08 Castilla-La Mancha,253
+445,Voluntaria,2015,09 Cataluña,1260
+446,Voluntaria,2015,10 Comunitat Valenciana,1038
+447,Voluntaria,2015,11 Extremadura,212
+448,Voluntaria,2015,12 Galicia,1166
+449,Voluntaria,2015,"13 Madrid, Comunidad de",4002
+450,Voluntaria,2015,"14 Murcia, Región de",117
+451,Voluntaria,2015,"15 Navarra, Comunidad Foral de",8
+452,Voluntaria,2015,16 País Vasco,987
+453,Voluntaria,2015,"17 Rioja, La",136
+454,Voluntaria,2015,18 Ceuta,14
+455,Voluntaria,2015,19 Melilla,13
+456,Otras,2014,01 Andalucía,684
+457,Otras,2014,02 Aragón,213
+458,Otras,2014,"03 Asturias, Principado de",128
+459,Otras,2014,"04 Balears, Illes",125
+460,Otras,2014,05 Canarias,84
+461,Otras,2014,06 Canarias,57
+462,Otras,2014,07 Castilla y León,187
+463,Otras,2014,08 Castilla-La Mancha,154
+464,Otras,2014,09 Cataluña,980
+465,Otras,2014,10 Comunitat Valenciana,719
+466,Otras,2014,11 Extremadura,88
+467,Otras,2014,12 Galicia,311
+468,Otras,2014,"13 Madrid, Comunidad de",695
+469,Otras,2014,"14 Murcia, Región de",189
+470,Otras,2014,"15 Navarra, Comunidad Foral de",107
+471,Otras,2014,16 País Vasco,349
+472,Otras,2014,"17 Rioja, La",57
+473,Otras,2014,18 Ceuta,3
+474,Otras,2014,19 Melilla,1
+475,Por fusión,2014,01 Andalucía,201
+476,Por fusión,2014,02 Aragón,65
+477,Por fusión,2014,"03 Asturias, Principado de",33
+478,Por fusión,2014,"04 Balears, Illes",89
+479,Por fusión,2014,05 Canarias,90
+480,Por fusión,2014,06 Canarias,10
+481,Por fusión,2014,07 Castilla y León,64
+482,Por fusión,2014,08 Castilla-La Mancha,133
+483,Por fusión,2014,09 Cataluña,127
+484,Por fusión,2014,10 Comunitat Valenciana,130
+485,Por fusión,2014,11 Extremadura,37
+486,Por fusión,2014,12 Galicia,86
+487,Por fusión,2014,"13 Madrid, Comunidad de",540
+488,Por fusión,2014,"14 Murcia, Región de",30
+489,Por fusión,2014,"15 Navarra, Comunidad Foral de",40
+490,Por fusión,2014,16 País Vasco,183
+491,Por fusión,2014,"17 Rioja, La",5
+492,Por fusión,2014,18 Ceuta,1
+493,Por fusión,2014,19 Melilla,0
+494,Voluntaria,2014,01 Andalucía,2287
+495,Voluntaria,2014,02 Aragón,568
+496,Voluntaria,2014,"03 Asturias, Principado de",306
+497,Voluntaria,2014,"04 Balears, Illes",619
+498,Voluntaria,2014,05 Canarias,741
+499,Voluntaria,2014,06 Canarias,193
+500,Voluntaria,2014,07 Castilla y León,851
+501,Voluntaria,2014,08 Castilla-La Mancha,265
+502,Voluntaria,2014,09 Cataluña,1358
+503,Voluntaria,2014,10 Comunitat Valenciana,1104
+504,Voluntaria,2014,11 Extremadura,237
+505,Voluntaria,2014,12 Galicia,1132
+506,Voluntaria,2014,"13 Madrid, Comunidad de",3912
+507,Voluntaria,2014,"14 Murcia, Región de",130
+508,Voluntaria,2014,"15 Navarra, Comunidad Foral de",13
+509,Voluntaria,2014,16 País Vasco,1012
+510,Voluntaria,2014,"17 Rioja, La",134
+511,Voluntaria,2014,18 Ceuta,6
+512,Voluntaria,2014,19 Melilla,11
+513,Otras,2013,01 Andalucía,618
+514,Otras,2013,02 Aragón,214
+515,Otras,2013,"03 Asturias, Principado de",126
+516,Otras,2013,"04 Balears, Illes",107
+517,Otras,2013,05 Canarias,67
+518,Otras,2013,06 Canarias,87
+519,Otras,2013,07 Castilla y León,199
+520,Otras,2013,08 Castilla-La Mancha,165
+521,Otras,2013,09 Cataluña,1267
+522,Otras,2013,10 Comunitat Valenciana,787
+523,Otras,2013,11 Extremadura,80
+524,Otras,2013,12 Galicia,325
+525,Otras,2013,"13 Madrid, Comunidad de",737
+526,Otras,2013,"14 Murcia, Región de",164
+527,Otras,2013,"15 Navarra, Comunidad Foral de",134
+528,Otras,2013,16 País Vasco,411
+529,Otras,2013,"17 Rioja, La",63
+530,Otras,2013,18 Ceuta,0
+531,Otras,2013,19 Melilla,0
+532,Por fusión,2013,01 Andalucía,313
+533,Por fusión,2013,02 Aragón,73
+534,Por fusión,2013,"03 Asturias, Principado de",27
+535,Por fusión,2013,"04 Balears, Illes",68
+536,Por fusión,2013,05 Canarias,74
+537,Por fusión,2013,06 Canarias,12
+538,Por fusión,2013,07 Castilla y León,81
+539,Por fusión,2013,08 Castilla-La Mancha,47
+540,Por fusión,2013,09 Cataluña,193
+541,Por fusión,2013,10 Comunitat Valenciana,167
+542,Por fusión,2013,11 Extremadura,41
+543,Por fusión,2013,12 Galicia,106
+544,Por fusión,2013,"13 Madrid, Comunidad de",595
+545,Por fusión,2013,"14 Murcia, Región de",30
+546,Por fusión,2013,"15 Navarra, Comunidad Foral de",32
+547,Por fusión,2013,16 País Vasco,136
+548,Por fusión,2013,"17 Rioja, La",17
+549,Por fusión,2013,18 Ceuta,1
+550,Por fusión,2013,19 Melilla,0
+551,Voluntaria,2013,01 Andalucía,2753
+552,Voluntaria,2013,02 Aragón,678
+553,Voluntaria,2013,"03 Asturias, Principado de",381
+554,Voluntaria,2013,"04 Balears, Illes",657
+555,Voluntaria,2013,05 Canarias,836
+556,Voluntaria,2013,06 Canarias,232
+557,Voluntaria,2013,07 Castilla y León,1032
+558,Voluntaria,2013,08 Castilla-La Mancha,389
+559,Voluntaria,2013,09 Cataluña,1558
+560,Voluntaria,2013,10 Comunitat Valenciana,1330
+561,Voluntaria,2013,11 Extremadura,280
+562,Voluntaria,2013,12 Galicia,1506
+563,Voluntaria,2013,"13 Madrid, Comunidad de",4286
+564,Voluntaria,2013,"14 Murcia, Región de",160
+565,Voluntaria,2013,"15 Navarra, Comunidad Foral de",16
+566,Voluntaria,2013,16 País Vasco,947
+567,Voluntaria,2013,"17 Rioja, La",168
+568,Voluntaria,2013,18 Ceuta,12
+569,Voluntaria,2013,19 Melilla,9
+570,Otras,2012,01 Andalucía,423
+571,Otras,2012,02 Aragón,177
+572,Otras,2012,"03 Asturias, Principado de",89
+573,Otras,2012,"04 Balears, Illes",109
+574,Otras,2012,05 Canarias,32
+575,Otras,2012,06 Canarias,48
+576,Otras,2012,07 Castilla y León,161
+577,Otras,2012,08 Castilla-La Mancha,173
+578,Otras,2012,09 Cataluña,1169
+579,Otras,2012,10 Comunitat Valenciana,651
+580,Otras,2012,11 Extremadura,71
+581,Otras,2012,12 Galicia,327
+582,Otras,2012,"13 Madrid, Comunidad de",606
+583,Otras,2012,"14 Murcia, Región de",125
+584,Otras,2012,"15 Navarra, Comunidad Foral de",103
+585,Otras,2012,16 País Vasco,428
+586,Otras,2012,"17 Rioja, La",7
+587,Otras,2012,18 Ceuta,1
+588,Otras,2012,19 Melilla,1
+589,Por fusión,2012,01 Andalucía,193
+590,Por fusión,2012,02 Aragón,61
+591,Por fusión,2012,"03 Asturias, Principado de",53
+592,Por fusión,2012,"04 Balears, Illes",98
+593,Por fusión,2012,05 Canarias,78
+594,Por fusión,2012,06 Canarias,21
+595,Por fusión,2012,07 Castilla y León,59
+596,Por fusión,2012,08 Castilla-La Mancha,70
+597,Por fusión,2012,09 Cataluña,215
+598,Por fusión,2012,10 Comunitat Valenciana,143
+599,Por fusión,2012,11 Extremadura,32
+600,Por fusión,2012,12 Galicia,110
+601,Por fusión,2012,"13 Madrid, Comunidad de",621
+602,Por fusión,2012,"14 Murcia, Región de",19
+603,Por fusión,2012,"15 Navarra, Comunidad Foral de",52
+604,Por fusión,2012,16 País Vasco,189
+605,Por fusión,2012,"17 Rioja, La",31
+606,Por fusión,2012,18 Ceuta,0
+607,Por fusión,2012,19 Melilla,0
+608,Voluntaria,2012,01 Andalucía,2664
+609,Voluntaria,2012,02 Aragón,633
+610,Voluntaria,2012,"03 Asturias, Principado de",320
+611,Voluntaria,2012,"04 Balears, Illes",651
+612,Voluntaria,2012,05 Canarias,809
+613,Voluntaria,2012,06 Canarias,256
+614,Voluntaria,2012,07 Castilla y León,977
+615,Voluntaria,2012,08 Castilla-La Mancha,336
+616,Voluntaria,2012,09 Cataluña,1512
+617,Voluntaria,2012,10 Comunitat Valenciana,1276
+618,Voluntaria,2012,11 Extremadura,358
+619,Voluntaria,2012,12 Galicia,1278
+620,Voluntaria,2012,"13 Madrid, Comunidad de",3575
+621,Voluntaria,2012,"14 Murcia, Región de",69
+622,Voluntaria,2012,"15 Navarra, Comunidad Foral de",21
+623,Voluntaria,2012,16 País Vasco,1016
+624,Voluntaria,2012,"17 Rioja, La",138
+625,Voluntaria,2012,18 Ceuta,18
+626,Voluntaria,2012,19 Melilla,13
